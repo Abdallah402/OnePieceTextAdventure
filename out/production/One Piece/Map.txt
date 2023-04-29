@@ -1,0 +1,5 @@
+ 	 	 	 	OnePiece
+			Wano	TreasureIsland
+ 	 	 	 	PunkHazard
+ 	 	 	 	MarineIsland
+TreasureIsland	MarineIsland	StartingIsland	TreausreIsland	EmptyIsland
